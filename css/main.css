@@ -143,3 +143,6 @@
 	/*name, duration, timing-function, delay, count, direction, fill */
 	animation: transformMe 1.5s ease-out 3s 12 alternate forwards;
 }
+.animation .b3:hover{
+	animation-play-state: paused;
+}
